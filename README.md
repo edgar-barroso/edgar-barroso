@@ -3,7 +3,7 @@
 
 - 🔭 Universitário e Desenvolvedor
 - 👯 estudando machine-learning e deep-learning
-- 🤔 se precisar de mim em kmz/kmz, ftth, google earth pro
+- 🤔 experiencia com xml, projetos de rede ftth, google earth pro
 - 💬 aceito ajuda em SQL e BI
 
 <div align="center">
