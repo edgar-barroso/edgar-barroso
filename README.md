@@ -5,7 +5,6 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap">
     <link rel="stylesheet" href="assets/css/reset.css">
     <link rel="stylesheet" href="assets/css/estilos.css">
-    <title>MyProjects</title>
 </head>
 <body>
     <header class="cabecalho">
@@ -35,10 +34,7 @@
                         <p class="numero_de_projetos"></p>
                     </div>
                 </button>
-
-
         </section>
     </main>
-    
 </body>
 </html>
