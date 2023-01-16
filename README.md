@@ -1,32 +1,44 @@
-### OI!👋
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap">
+    <link rel="stylesheet" href="assets/css/reset.css">
+    <link rel="stylesheet" href="assets/css/estilos.css">
+    <title>MyProjects</title>
+</head>
+<body>
+    <header class="cabecalho">
+        <img src="assets\img\banner-github.png" alt="banner do github" class="banner_git">
+        <h1>Edgar Barroso</h1>
+    </header>
+    <main>
+        <section class="secao_projetos">
+                <button class="botao_python" >
+                    <img class="banner_linguagem" src="assets\img\simb-python.png" alt="linguagem python">
+                    <div>
+                        <h2>Python Projects</h2>
+                        <p class="numero_de_projetos"></p>
+                    </div>
+                </button>
+                <button class="botao_java">
+                    <img class="banner_linguagem" src="assets\img\simb-java.png" alt="linguagem java">
+                    <div>
+                        <h2>Java Projects</h2>
+                        <p class="numero_de_projetos"></p>
+                    </div>
+                </button>
+                <button class="botao_javascript">
+                    <img class="banner_linguagem" src="assets\img\simb-javascript.png" alt="linguagem javascript">
+                    <div>
+                        <h2>Java Projects</h2>
+                        <p class="numero_de_projetos"></p>
+                    </div>
+                </button>
 
 
-- 🔭 Universitário e Desenvolvedor
-- 👯 estudando machine-learning e deep-learning
-- 🤔 experiencia com kml, projetos de rede ftth, google earth pro
-- 💬 aceito ajuda em SQL e BI
-
-<div align="center">
-  <a href="https://github.com/Edgar-Barroso">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edgar-Barroso&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edgar-Barroso&theme=dark&hide_border=false&&layout=compact"/>
-  
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Edgar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Edgar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Edgar-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-  </div>
-  
-
- 
-<div> 
-  <br><br><br>
-  <a href="https://www.instagram.com/edgar_barrosoneto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:barrosonetojose@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/edgar-barroso-623a72210" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+        </section>
+    </main>
+    
+</body>
+</html>
