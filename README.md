@@ -16,7 +16,7 @@ Olá! Seja bem-vindo ao meu espaço no GitHub. Meu nome é Edgar Barroso e progr
 </div>
   
   ##
- <iframe href="https://www.google.com"></iframe>
+ <iframe href="https://www.google.com" height="300" width="400"/>
 <div> 
   <a href="https://www.instagram.com/edgar_barrosoneto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:barrosonetojose@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
