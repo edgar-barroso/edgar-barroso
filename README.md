@@ -4,7 +4,6 @@
 Olá! Seja bem-vindo ao meu espaço no GitHub. Meu nome é Edgar Barroso e programador e estudante de Ciência da Computação. Aqui você encontrará uma coleção de projetos, experimentos e aprendizados que refletem minha jornada no mundo da tecnologia.
 
 
-<iframe href="https://www.google.com" height="300" width="400"/>
 <div style="display: inline_block"><br>
   <img align="center" alt="Edgar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Edgar-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
