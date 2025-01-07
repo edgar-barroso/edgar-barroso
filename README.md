@@ -21,8 +21,8 @@ Olá! Seja bem-vindo ao meu espaço no GitHub. Meu nome é Edgar Barroso e progr
   <a href="https://www.linkedin.com/in/edgar-barroso-623a72210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## Acesse meu portfólio CLICANDO AQUI
+## Acesse meu portfólio
 
 <a href="https://portifolio-three-woad-68.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/-Acesse%20Meu%20Portf%C3%B3lio%20Resumido-%230000FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CLICANDO%20AQUI-%230000FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
