@@ -26,3 +26,5 @@ Olá! Seja bem-vindo ao meu espaço no GitHub. Meu nome é Edgar Barroso e progr
 <a href="https://portifolio-three-woad-68.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/-CLICANDO%20AQUI-%230000FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
+
+![Edgar's GitHub 3D Contributions](./profile-3d-contrib/profile-night-green.svg)
