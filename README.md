@@ -38,13 +38,15 @@ Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor apaixonado por tecnologia, 
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edgarbarroso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarbarroso&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edgar-barroso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgar-barroso&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edgarbarroso&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edgar-barroso&theme=tokyonight" alt="GitHub Streak" />
 </div>
+
+---
 
 ---
 
@@ -69,7 +71,9 @@ Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor apaixonado por tecnologia, 
 
 ## 🎨 Contribuições
 
-![Snake animation](https://github.com/edgarbarroso/edgarbarroso/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edgar-barroso&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</div>
 
 ---
 
@@ -81,5 +85,5 @@ Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor apaixonado por tecnologia, 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=edgarbarroso&color=blue&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=edgar-barroso&color=blue&style=flat-square" alt="Profile views" />
 </div>
