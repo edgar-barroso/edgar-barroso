@@ -1,31 +1,85 @@
-# 👋 Olá, eu sou Edgar Barroso  
-### Programador e Estudante de Ciência da Computação  
+# 👋 Olá, eu sou Edgar Barroso!
 
-Bem-vindo ao meu perfil GitHub! Aqui compartilho meus projetos e aprendizados na área de tecnologia.  
+### 💻 Desenvolvedor Full Stack & Estudante de Ciência da Computação
 
-## 🛠 Tecnologias  
+Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafios e oportunidades para criar soluções inovadoras. Aqui você encontrará meus projetos, experimentos e contribuições para a comunidade de desenvolvimento.
 
-<div style="display: inline_block">  
-  <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
-  <img alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
-  <img alt="Node.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">  
-  <img alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
-  <img alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
-  <img alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
-</div>  
+---
 
+## 🚀 Sobre Mim
 
-## 📬 Contato  
+- 🎓 **Estudante de Ciência da Computação** - Sempre aprendendo e evoluindo
+- 💼 **Desenvolvedor Full Stack** - Experiência em frontend e backend
+- 🌱 **Aprendizado Contínuo** - Explorando novas tecnologias e metodologias
+- 🎯 **Foco em Qualidade** - Código limpo e boas práticas de desenvolvimento
+- 🤝 **Colaboração** - Aberto a projetos em equipe e contribuições open source
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edgar_barrosoneto)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barrosonetojose@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-barroso-623a72210/)  
+---
 
+## 🛠️ Stack Tecnológica
 
-## 🌐 Portfólio  
+### Frontend
+<div align="left">
+  <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-0000FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portifolio-three-woad-68.vercel.app/)  
+### Backend
+<div align="left">
+  <img alt="Node.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
+---
 
-![Profile GitBlock](profile-3d-contrib/profile-night-view.svg)
+## 📊 Estatísticas GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edgarbarroso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarbarroso&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edgarbarroso&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
+
+## 📬 Vamos Conectar?
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/edgar-barroso-623a72210/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:barrosonetojose@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.instagram.com/edgar_barrosoneto" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://portifolio-three-woad-68.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-0000FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio"/>
+  </a>
+</div>
+
+---
+
+## 🎨 Contribuições
+
+![Snake animation](https://github.com/edgarbarroso/edgarbarroso/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+<div align="center">
+  <p>💼 <strong>Aberto a oportunidades de trabalho e colaborações!</strong></p>
+  <p>📧 Entre em contato: <a href="mailto:barrosonetojose@gmail.com">barrosonetojose@gmail.com</a></p>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=edgarbarroso&color=blue&style=flat-square" alt="Profile views" />
+</div>
