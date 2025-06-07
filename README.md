@@ -52,14 +52,8 @@ Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor apaixonado por tecnologia, 
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edgar-barroso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgar-barroso&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=edgar-barroso&theme=tokyonight" alt="GitHub Streak" />
 </div>
-
----
 
 ---
 
