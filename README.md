@@ -26,3 +26,6 @@ Bem-vindo ao meu perfil GitHub! Aqui compartilho meus projetos e aprendizados na
 ## 🌐 Portfólio  
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-0000FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portifolio-three-woad-68.vercel.app/)  
+
+
+![Profile GitBlock](profile-gitblock.svg)
