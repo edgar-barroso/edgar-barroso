@@ -3,8 +3,6 @@
 
 Bem-vindo ao meu perfil GitHub! Aqui compartilho meus projetos e aprendizados na área de tecnologia.  
 
----  
-
 ## 🛠 Tecnologias  
 
 <div style="display: inline_block">  
@@ -17,7 +15,6 @@ Bem-vindo ao meu perfil GitHub! Aqui compartilho meus projetos e aprendizados na
   <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
 </div>  
 
----  
 
 ## 📬 Contato  
 
@@ -25,7 +22,6 @@ Bem-vindo ao meu perfil GitHub! Aqui compartilho meus projetos e aprendizados na
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barrosonetojose@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-barroso-623a72210/)  
 
----  
 
 ## 🌐 Portfólio  
 
