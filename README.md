@@ -1,46 +1,32 @@
-<h1 align="center">👋 Olá, eu sou Edgar Barroso</h1>
-<h3 align="center">Programador e Estudante de Ciência da Computação</h3>
+# 👋 Olá, eu sou Edgar Barroso  
+### Programador e Estudante de Ciência da Computação  
 
-<p align="center">
-  Seja bem-vindo ao meu espaço no GitHub! Aqui você encontrará uma coleção de projetos, experimentos e aprendizados que refletem minha jornada no mundo da tecnologia.
-</p>
+Bem-vindo ao meu perfil GitHub! Aqui compartilho meus projetos e aprendizados na área de tecnologia.  
 
----
+---  
 
-### 🚀 Tecnologias que uso no dia a dia
+## 🛠 Tecnologias  
 
-<div align="center" style="display: inline_block">
-  <img align="center" alt="Edgar-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Edgar-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Edgar-Node" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Edgar-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Edgar-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Edgar-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Edgar-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+<div style="display: inline_block">  
+  <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+  <img alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
+  <img alt="Node.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">  
+  <img alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
+  <img alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
+  <img alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+  <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
+</div>  
 
----
+---  
 
-### 📫 Entre em contato comigo
+## 📬 Contato  
 
-<div align="center">
-  <a href="https://www.instagram.com/edgar_barrosoneto" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:barrosonetojose@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/edgar-barroso-623a72210/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edgar_barrosoneto)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barrosonetojose@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-barroso-623a72210/)  
 
----
+---  
 
-### 🌐 Acesse meu portfólio
+## 🌐 Portfólio  
 
-<p align="center">
-  <a href="https://portifolio-three-woad-68.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-CLICANDO%20AQUI-%230000FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
+[![Portfólio](https://img.shields.io/badge/Portfólio-0000FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portifolio-three-woad-68.vercel.app/)  
